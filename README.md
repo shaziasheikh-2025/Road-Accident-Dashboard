@@ -37,12 +37,14 @@ This stage began with getting to know the dataset and checking for any data qual
 Created a "Data Analysis" sheet to summarize all the pivot table Data for a new user or developer or client to ease their work and gathered information. On this sheet nine pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between number of casualties and many factors such as- casualty type, vehicle type, road type, location etc. Monthly trends were also analysed for the years 2021 and 2022.
 
 Below is a snippet of the Data Analysis Sheet
+
 ![Road Accident Data Analysis](https://github.com/user-attachments/assets/e5540acc-bef5-42f4-8450-6579cb9c5954)
 
 ## Data Visualization
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience slicers and timelines were incorporated. Hyperlinks and connections were also added to necessary icons for seamless navigation.
 
 Below is a snippet of the final dashboard in Excel.
+
 ![Road Accident Data](https://github.com/user-attachments/assets/d6700ebe-0c1c-4f0e-93d9-d46f8a842d10)
 
 ## Key Insights
